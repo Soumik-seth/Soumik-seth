@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Soumik-seth
 - 👀 I’m interested in coding..
-- 🌱 I’m currently learning BTech
-- 💞️ I’m looking to collaborate on Coder
+- 🌱 I’m currently learning BTech in CSE
+- 💞️ I’m looking to collaborate with coder
